@@ -9,4 +9,4 @@
 
 
 <a href="https://scratch.mit.edu/users/adrianguilherme"><image src="https://raw.githubusercontent.com/adriantechkids-netizen/adriantechkids-netizen/refs/heads/main/images/Scratch_S.svg" width="40" height="40" /></a>
-
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
