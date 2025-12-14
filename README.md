@@ -10,3 +10,10 @@
 
 <a href="https://scratch.mit.edu/users/adrianguilherme"><image src="https://raw.githubusercontent.com/adriantechkids-netizen/adriantechkids-netizen/refs/heads/main/images/Scratch_S.svg" width="40" height="40" /></a>
 <a href="https://scratch.mit.edu/users/adrianguilherme"><image src="https://raw.githubusercontent.com/adriantechkids-netizen/adriantechkids-netizen/refs/heads/main/images/HTML5_logo_and_wordmark(2).svg" width="40" height="40" /></a>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
